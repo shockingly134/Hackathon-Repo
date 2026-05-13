@@ -1,6 +1,6 @@
 # LTA Hackathon Repository
 
-Welcome to the LTA Hackathon Repository! This repository contains curated datasets and resources for participants working on various problem statements related to Singapore's Land Transport Authority (LTA) systems.
+ This repository contains curated datasets and resources for participants working on various problem statements related to Land Transport Authority (LTA) hackathon
 
 ## 📋 Table of Contents
 
@@ -36,7 +36,7 @@ Hackathon-Repo/
 │   ├── 24hourWeatherForecast.json
 │   ├── 4dayWeatherForecast.json
 │   ├── AmendmenttoMP2014RailStation.geojson
-│   └── UsefulWebsites.txt       # Telegram channels for live updates
+│   └── UsefulWebsites.txt      
 │
 ├── PS3/                          # Problem Statement 3 Datasets
 │   └── [To be determined]
